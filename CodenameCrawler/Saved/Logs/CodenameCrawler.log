@@ -2287,3 +2287,447 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.11.08-10.33.08:686][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3214.791748
 [2026.11.08-10.33.09:687][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.08-10.33.09:687][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3215.457275, Update Interval: 347.268280
+[2026.11.08-10.39.12:848][247]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.08-10.39.12:859][247]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.08-10.39.12:874][248]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.08-10.39.14:421][340]LogContentBrowser: Attempting asset rename: NewFolder -> Component
+[2026.11.08-10.39.14:422][340]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.08-10.39.15:042][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.39.15:168][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.11.08-10.39.15:194][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.11.08-10.39.15:220][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.11.08-10.39.15:244][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.890 ms (total: 409.208 ms)
+[2026.11.08-10.39.18:123][478]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.08-10.39.18:139][478]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.08-10.39.18:166][480]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.08-10.39.19:537][561]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2026.11.08-10.39.19:538][561]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.08-10.39.19:910][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.39.20:031][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.08-10.39.20:059][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.11.08-10.39.20:081][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.11.08-10.39.20:107][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.580 ms (total: 605.789 ms)
+[2026.11.08-10.39.26:736][830]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.39.26:736][830]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.39.26:736][830]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.39.26:736][830]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.39.26:736][830]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.39.32:611][830]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.11.08-10.39.32:634][830]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.11.08-10.39.32:650][830]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.11.08-10.39.32:682][832]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.11.08-10.39.37:967][146]LogContentBrowser: Attempting asset rename: NewBlueprint -> PDA_CombatFramWork
+[2026.11.08-10.39.37:982][146]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.11.08-10.39.38:499][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.39.38:653][176]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.39.38:656][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.39.38:657][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.39.38:674][176]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.39.38:674][176]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWorkD588970F40896CEF3B8090ADF4F1E258.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.39.38:702][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.742 ms (total: 808.531 ms)
+[2026.11.08-10.39.38:916][176]LogContentValidation: Enabled validators:
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.39.38:916][176]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.39.38:916][176]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.39.38:917][176]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.39.38:918][176]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.39.38:918][176]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.39.38:918][176]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.39.38:951][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3605.055420
+[2026.11.08-10.39.38:952][176]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.08-10.39.39:102][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.08-10.39.39:102][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3605.189453, Update Interval: 305.182037
+[2026.11.08-10.39.40:517][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Component/Assets/PDA_CombatFramWork.PDA_CombatFramWork
+[2026.11.08-10.39.40:799][224]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.08-10.39.42:384][224]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.11.08-10.39.42:384][224]LogSlate: Display: Took 0.002079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.11.08-10.39.42:384][224]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.11.08-10.39.42:385][224]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.11.08-10.39.46:889][431]LogSlate: Window 'PDA_CombatFramWork' being destroyed
+[2026.11.08-10.40.21:020][148]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.08-10.40.21:033][148]LogContentBundle: [Lvl_SideScrolling(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.11.08-10.40.21:033][148]LogWorldPartition: Display: GenerateStreaming for 'Lvl_SideScrolling' started...
+[2026.11.08-10.40.21:034][148]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2026.11.08-10.40.21:035][148]LogWorldPartition: Display: GenerateStreaming for 'Lvl_SideScrolling' took 1.582 ms (total: 3.761 ms)
+[2026.11.08-10.40.21:035][148]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.08-10.40.21:035][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.08-10.40.21:035][148]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2026.11.08-10.40.21:041][148]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.11.08-10.40.21:077][149]LogPlayLevel: Creating play world package: /Game/Variant_SideScroller/UEDPIE_0_Lvl_SideScrolling
+[2026.11.08-10.40.21:112][149]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.11.08-10.40.21:114][149]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.526 ms (total: 7.481 ms)
+[2026.11.08-10.40.21:114][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036986s)
+[2026.11.08-10.40.21:114][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_SideScroller/Lvl_SideScrolling.Lvl_SideScrolling to /Game/Variant_SideScroller/UEDPIE_0_Lvl_SideScrolling.Lvl_SideScrolling (0.037069s)
+[2026.11.08-10.40.21:169][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.11.08-10.40.21:171][149]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_SideScrolling
+[2026.11.08-10.40.21:173][149]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_SideScrolling)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.08-10.40.21:173][149]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.08-10.40.21:173][149]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_SideScroller/UEDPIE_0_Lvl_SideScrolling.Lvl_SideScrolling, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.08-10.40.21:173][149]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.08-10.40.21:176][149]LogWorldPartition: Display: WorldPartition initialize took 2.816 ms (total: 648.398 ms)
+[2026.11.08-10.40.21:176][149]LogPlayLevel: PIE: World Init took: (0.005120s)
+[2026.11.08-10.40.21:176][149]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.08-10.40.21:176][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.08-10.40.21:176][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.08-10.40.21:176][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.08-10.40.21:176][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.08-10.40.21:176][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.08-10.40.21:176][149]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.08-10.40.21:182][149]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Verbatim MT15 (NVIDIA High Definition Audio)'
+[2026.11.08-10.40.21:183][149]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone Array (AMD Audio Device)'
+[2026.11.08-10.40.21:184][149]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Verbatim MT15 (NVIDIA High Definition Audio)'
+[2026.11.08-10.40.21:185][149]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone Array (AMD Audio Device)'
+[2026.11.08-10.40.21:186][149]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Verbatim MT15 (NVIDIA High Definition Audio)'
+[2026.11.08-10.40.21:186][149]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone Array (AMD Audio Device)'
+[2026.11.08-10.40.21:190][149]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.08-10.40.21:190][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.08-10.40.21:190][149]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.08-10.40.21:191][149]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.08-10.40.21:195][149]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.08-10.40.21:195][149]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.08-10.40.21:195][149]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.08-10.40.21:195][149]LogAudioMixer: Display: Using Audio Hardware Device Verbatim MT15 (NVIDIA High Definition Audio)
+[2026.11.08-10.40.21:195][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.08-10.40.21:195][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.08-10.40.21:195][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.08-10.40.21:196][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.11.08-10.40.21:198][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.11.08-10.40.21:199][149]LogInit: FAudioDevice initialized with ID 4.
+[2026.11.08-10.40.21:199][149]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_SideScrolling'.
+[2026.11.08-10.40.21:199][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.08-10.40.21:200][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.08-10.40.21:204][149]LogLoad: Game class is 'BP_SideScrollingGameMode_C'
+[2026.11.08-10.40.21:207][149]LogWorld: Bringing World /Game/Variant_SideScroller/UEDPIE_0_Lvl_SideScrolling.Lvl_SideScrolling up for play (max tick rate 60) at 2026.11.08-11.40.21
+[2026.11.08-10.40.21:208][149]LogWorld: Bringing up level for play took: 0.004253
+[2026.11.08-10.40.21:208][149]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.08-10.40.21:211][149]LogChaos: RegisterAsyncPhysicsTickActor BP_SimpleMovingPlatform_C_0 @ 0x248407d4b00
+[2026.11.08-10.40.21:212][149]PIE: Server logged in
+[2026.11.08-10.40.21:213][149]PIE: Play in editor total start time 0,18 seconds.
+[2026.11.08-10.40.21:263][150]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.08-10.40.23:001][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.08-10.40.23:001][252]LogWorld: BeginTearingDown for /Game/Variant_SideScroller/UEDPIE_0_Lvl_SideScrolling
+[2026.11.08-10.40.23:001][252]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.11.08-10.40.23:002][252]LogWorld: UWorld::CleanupWorld for Lvl_SideScrolling, bSessionEnded=true, bCleanupResources=true
+[2026.11.08-10.40.23:002][252]LogChaos: UnregisterAsyncPhysicsTickActor BP_SimpleMovingPlatform_C_0 @ 0x248407d4b00
+[2026.11.08-10.40.23:003][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.08-10.40.23:003][252]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_SideScroller/UEDPIE_0_Lvl_SideScrolling.Lvl_SideScrolling
+[2026.11.08-10.40.23:005][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.08-10.40.23:011][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.08-10.40.23:060][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.08-10.40.23:061][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.08-10.40.23:061][252]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=4, StreamState=4
+[2026.11.08-10.40.23:068][252]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.08-10.40.23:076][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.11.08-10.40.23:112][253]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.11.08-10.42.08:427][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.42.08:560][196]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.42.08:560][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.42.08:560][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.42.08:563][196]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.42.08:564][196]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWork178104F24B9FDA022B8CFB80302C6589.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.42.08:592][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.348 ms (total: 972.880 ms)
+[2026.11.08-10.42.08:845][196]LogContentValidation: Enabled validators:
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.42.08:845][196]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.42.08:845][196]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.42.08:845][196]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.42.08:845][196]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.42.08:846][196]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.42.08:846][196]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.42.11:935][276]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' with subface index 0 in Game thread.
+[2026.11.08-10.42.11:935][276]LogSlate: Display: Took 0.000614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K) on Game thread.
+[2026.11.08-10.42.11:935][276]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' subface 0 in Game thread.
+[2026.11.08-10.42.11:935][276]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.11.08-10.42.21:729][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.42.21:834][712]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.42.21:834][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.42.21:835][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.42.21:838][712]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.42.21:839][712]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWork30AFE86447658BD6C557A09BB4A10DCC.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.42.21:854][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.868 ms (total: 1.09 sec)
+[2026.11.08-10.42.22:059][712]LogContentValidation: Enabled validators:
+[2026.11.08-10.42.22:059][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.42.22:059][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.42.22:060][712]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.42.22:060][712]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.42.22:060][712]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.42.22:060][712]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.42.22:060][712]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.42.22:060][712]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.42.31:030][246]LogDerivedDataCache: C:/Users/Bon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:05.464 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 34043 files in 35542 folders with total size 1900 MiB.
+[2026.11.08-10.43.57:490][433]LogBlueprint: Compiling Blueprint '/Game/Component/Assets/PDA_CombatFramWork.PDA_CombatFramWork'
+[2026.11.08-10.43.57:527][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.08-10.44.02:529][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.44.02:651][731]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.44.02:651][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.44.02:652][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.44.02:656][731]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.44.02:658][731]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWork526D0C0F49C3F43791D300A5E753C848.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.44.02:673][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.954 ms (total: 1.24 sec)
+[2026.11.08-10.44.02:861][731]LogContentValidation: Enabled validators:
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.44.02:861][731]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.44.02:861][731]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.44.02:861][731]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.44.02:862][731]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.44.02:862][731]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.44.02:862][731]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.44.06:319][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.44.06:411][879]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.44.06:411][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.44.06:411][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.44.06:414][879]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.44.06:416][879]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWorkFE4464F147242127693B79B8C32E0CA9.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.44.06:429][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.981 ms (total: 1.35 sec)
+[2026.11.08-10.44.06:587][879]LogContentValidation: Enabled validators:
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.44.06:587][879]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.44.06:587][879]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.44.06:587][879]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.44.06:587][879]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.44.06:587][879]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.44.06:587][879]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.45.26:724][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3952.836426
+[2026.11.08-10.45.26:909][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.08-10.45.26:909][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3953.003906, Update Interval: 358.397766
+[2026.11.08-10.45.57:235][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.45.57:336][272]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.45.57:336][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.45.57:337][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.45.57:339][272]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.45.57:341][272]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWorkA83862E541C360D502CF7DAC59213815.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.45.57:358][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.736 ms (total: 1.47 sec)
+[2026.11.08-10.45.57:517][272]LogContentValidation: Enabled validators:
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.45.57:517][272]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.45.57:517][272]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.45.57:517][272]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.45.57:517][272]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.45.57:517][272]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.45.57:517][272]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.46.06:811][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.46.06:914][718]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.46.06:914][718]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFramWork] ([2] browsable assets)...
+[2026.11.08-10.46.06:914][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFramWork]
+[2026.11.08-10.46.06:917][718]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFramWork
+[2026.11.08-10.46.06:918][718]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFramWorkBD569588488789BEEF50A989DCEF8C16.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFramWork.uasset'
+[2026.11.08-10.46.06:932][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.650 ms (total: 1.59 sec)
+[2026.11.08-10.46.07:104][718]LogContentValidation: Enabled validators:
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.46.07:104][718]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.46.07:104][718]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.46.07:104][718]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.46.07:104][718]AssetCheck: /Game/Component/Assets/PDA_CombatFramWork Validating asset
+[2026.11.08-10.46.07:104][718]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.46.07:104][718]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.46.07:768][755]LogBlueprint: Compiling Blueprint '/Game/Component/Assets/PDA_CombatFramWork.PDA_CombatFramWork'
+[2026.11.08-10.46.07:819][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.11.08-10.46.16:802][ 46]LogBlueprint: Compiling Blueprint '/Game/Component/Assets/PDA_CombatFramWork.PDA_CombatFramWork'
+[2026.11.08-10.46.16:847][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.11.08-10.46.20:840][158]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.08-10.46.20:852][158]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.08-10.46.20:870][159]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.08-10.46.23:655][320]LogContentBrowser: Attempting asset rename: NewFolder -> DataAssets
+[2026.11.08-10.46.23:656][320]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.08-10.46.24:132][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.46.24:323][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.11.08-10.46.24:364][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.11.08-10.46.24:407][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.11.08-10.46.24:439][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.388 ms (total: 1.90 sec)
+[2026.11.08-10.46.29:770][592]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.46.29:770][592]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.46.29:770][592]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftInputAction has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.46.29:770][592]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.46.29:770][592]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelBlueprint.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.11.08-10.46.37:713][592]LogSlate: Window 'Pick Class For Data Asset Instance' being destroyed
+[2026.11.08-10.46.37:728][592]LogContentBrowser: Deferred new asset file creation: NewDataAsset
+[2026.11.08-10.46.37:743][592]LogContentBrowser: Creating deferred item: NewDataAsset
+[2026.11.08-10.46.37:776][594]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataAsset).
+[2026.11.08-10.46.41:800][825]LogContentBrowser: Attempting asset rename: NewDataAsset -> DA_Unarmed
+[2026.11.08-10.46.41:801][825]LogContentBrowser: End creating deferred item NewDataAsset
+[2026.11.08-10.46.42:169][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.46.42:269][847]LogFileHelpers: Saving Package: /Game/Component/Assets/DataAssets/DA_Unarmed
+[2026.11.08-10.46.42:269][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/DataAssets/DA_Unarmed] ([1] browsable assets)...
+[2026.11.08-10.46.42:269][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/DataAssets/DA_Unarmed]
+[2026.11.08-10.46.42:271][847]LogSavePackage: Moving output files for package: /Game/Component/Assets/DataAssets/DA_Unarmed
+[2026.11.08-10.46.42:271][847]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/DA_UnarmedE3E4D8AF49735E6200C9048088FA945C.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/DataAssets/DA_Unarmed.uasset'
+[2026.11.08-10.46.42:290][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.038 ms (total: 2.02 sec)
+[2026.11.08-10.46.42:461][847]LogContentValidation: Enabled validators:
+[2026.11.08-10.46.42:461][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.46.42:461][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.46.42:462][847]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.46.42:462][847]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.11.08-10.46.42:462][847]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.46.42:462][847]AssetCheck: /Game/Component/Assets/DataAssets/DA_Unarmed Validating asset
+[2026.11.08-10.46.42:462][847]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.46.42:462][847]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.46.42:485][847]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.08-10.46.49:948][140]LogContentBrowser: Attempting asset rename: PDA_CombatFramWork -> PDA_CombatFrameWork
+[2026.11.08-10.46.50:156][140]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.11.08-10.46.50:244][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.08-10.46.50:244][140]LogFileHelpers: Saving Package: /Game/Component/Assets/DataAssets/DA_Unarmed
+[2026.11.08-10.46.50:244][140]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/DataAssets/DA_Unarmed] ([1] browsable assets)...
+[2026.11.08-10.46.50:244][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/DataAssets/DA_Unarmed]
+[2026.11.08-10.46.50:246][140]LogSavePackage: Moving output files for package: /Game/Component/Assets/DataAssets/DA_Unarmed
+[2026.11.08-10.46.50:247][140]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/DA_Unarmed15590608426A79B5B99ED2BED6CF6727.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/DataAssets/DA_Unarmed.uasset'
+[2026.11.08-10.46.50:248][140]LogFileHelpers: Saving Package: /Game/Component/Assets/PDA_CombatFrameWork
+[2026.11.08-10.46.50:249][140]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Component/Assets/PDA_CombatFrameWork] ([2] browsable assets)...
+[2026.11.08-10.46.50:249][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Component/Assets/PDA_CombatFrameWork]
+[2026.11.08-10.46.50:250][140]LogSavePackage: Moving output files for package: /Game/Component/Assets/PDA_CombatFrameWork
+[2026.11.08-10.46.50:250][140]LogSavePackage: Moving '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/PDA_CombatFrameWork38D6D5864DD030DC913AE9B2DE4ACDEF.tmp' to '../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/Component/Assets/PDA_CombatFrameWork.uasset'
+[2026.11.08-10.46.50:258][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.936 ms (total: 2.04 sec)
+[2026.11.08-10.46.50:329][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.11.08-10.46.50:369][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.11.08-10.46.50:401][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.11.08-10.46.50:568][140]LogContentValidation: Enabled validators:
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.08-10.46.50:568][140]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.08-10.46.50:568][140]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.11.08-10.46.50:568][140]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.08-10.46.50:569][140]AssetCheck: /Game/Component/Assets/DataAssets/DA_Unarmed Validating asset
+[2026.11.08-10.46.50:569][140]AssetCheck: /Game/Component/Assets/PDA_CombatFrameWork Validating asset
+[2026.11.08-10.46.50:569][140]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.08-10.46.50:569][140]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.08-10.46.50:610][140]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Saved/SourceControl/UncontrolledChangelists.json
