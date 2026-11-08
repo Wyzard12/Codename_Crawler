@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Github/Codename_Crawler/CodenameCrawler/Content/Variant_SideScroller/Blueprints/Managers/BAC_CombatManagerComponent.uasset",
+				"F:/Github/Codename_Crawler/CodenameCrawler/Content/Variant_SideScroller/Blueprints/Assets/DataAssets/DA_Unarmed.uasset",
+				"F:/Github/Codename_Crawler/CodenameCrawler/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
 				"C:/Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/E/XQ/UFSMJP34STGU1V6KV5KVYE.uasset",
 				"C:/Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/8/2Y/XQRQRCAVRFXVII19BHHEFW.uasset",
 				"C:/Users/Bon/Documents/Github/Codename_Crawler/CodenameCrawler/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/5/Y1/XGIXS6FW48742XXX2QMT0U.uasset",
